@@ -10,4 +10,4 @@ events with counts
 Q3.Analyse data for each campaign_id, date, hour, gender_type & value to get all the
 events with counts
 
-Store processed json data of each problem statement into different HDFS output directory. Once output data is available into HDFS, create external Hive tables on top of it using Json Serde
+Store processed json data of each problem statement into different HDFS output directory.
